@@ -10,7 +10,7 @@
 
 * Initiative
 * Upper-Intermediate
-* Most likely to succeed
+* Most likely to succeed :man_student:
 
 
 
